@@ -57,9 +57,7 @@ button{
     overflow-y: hidden;
     color: #fff;
 }
-nav{
-  border-radius: 5px;
-}
+
 .collapsible-header{
   background-color:#262626; 
   width: 600px;
