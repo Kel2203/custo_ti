@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&family=Roboto:wght@300&display=swap');
+
+
+*{
+  background-color:#262626;
+  color:#cfd8dc;
+  font-family: 'Poppins', sans-serif;
+  margin: 0;
+  padding: 0;
+  
+}
+.content{
+  margin-bottom:60px;
+}
+#hf{
+  width:150px;
+  margin-left:1%;
+  margin-top:5px;
+}
+.check{
+  margin-bottom:4%;
+  margin-top:1%;
+  width:95%;
+  height:90%;
+  color:#000;
+  font-family: 'Poppins', sans-serif;
+  padding:10px;
+  text-align: center;
+  font-size:32px;
+  
+}
+button{
+  font-family: 'Poppins', sans-serif; 
+  margin-right: 15px;
+  color:#000;
+  border-radius: 45px;
+  position: relative;
+  
+}
+
+ container{
+   margin-bottom: 75px;
+ }
+.cliente {
+
+   display:none;
+ }
+ /* iframe{
+  
+    margin-left: 50px;
+   
+ } */
+ #frame-spec{
+    
+    overflow-y: hidden;
+    color: #fff;
+}
+nav{
+  border-radius: 5px;
+}
+.collapsible-header{
+  background-color:#262626; 
+  width: 600px;
+}
+.collapsible-body{
+  width: 600px;
+}
+.collapsible{
+  border-style: none;
+  width: 500px;
+  margin-left: 350px;
+}
+.carousel{
+  background-color: aquamarine;
+ position:absolute;
+  margin-top: 400px;
+  padding: 10px;
+  height: 50%; 
+}
+.carousel-item{
+ margin-top: 5px;
+ margin-left: 60px;
+ width: 500px;
+ height:100%;
+ 
+}
+.collapsible-header img{
+  margin-right: 15px ;
+}
+label{
+  margin-top: 3px;
+}
