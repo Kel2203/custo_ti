@@ -17,16 +17,18 @@
   margin-left:1%;
   margin-top:5px;
 }
-.check{
-  margin-bottom:4%;
+.section{
+  margin-bottom:5%;
   margin-top:1%;
   width:95%;
   height:90%;
-  color:#000;
+  color:#cfd8dc;
+  border-bottom: 2px solid rgb(246, 250, 42);
+  border-radius: 1px;
   font-family: 'Poppins', sans-serif;
-  padding:10px;
+  padding-bottom:1px;
   text-align: center;
-  font-size:32px;
+  font-size:42px;
   
 }
 button{
