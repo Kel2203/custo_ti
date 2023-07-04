@@ -1,5 +1,7 @@
 # custo_ti
 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/Kel2203/Custos_ti/blob/main/LICENSE)
+
 Projeto de integração de um formulario com o Google Sheets
 
 | :placard: Vitrine.Dev |     |
